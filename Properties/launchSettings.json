@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdapHuff": {
+      "commandName": "Project",
+      "commandLineArgs": "-p C:\\ebyn C:\\TEMP\\test.huff /i"
+    }
+  }
+}
